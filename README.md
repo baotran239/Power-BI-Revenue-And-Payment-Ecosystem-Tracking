@@ -58,3 +58,12 @@ To access to the datasets, please refer to the [link](https://docs.google.com/sp
 
 ### Dashboard
 <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/08ad1391-1226-4280-96d1-9a9f7bc17199" />
+
+# V. Insights
+- Revenue status:
+The company's revenue experienced a slight increase from March to April (0.4%), followed by a substantial surge from April to May (366.3%), reflecting steady growth and strong financial health.
+
+- payment ecosystem - relative proportions of payment types - (By provinces, categories, and products)
+- revenue by product categories - prioritize in terms of product positioning
+
+# VI. Recommendations
