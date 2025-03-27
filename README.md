@@ -54,6 +54,7 @@ To access to the datasets, please refer to the [link](https://docs.google.com/sp
 
 # IV. Dashboard
 ### Data modeling
+![Image](https://github.com/user-attachments/assets/3fe7da5e-01b2-467c-a717-363559eef76e)
 
 ### Dashboard
-
+<img width="1081" alt="Image" src="https://github.com/user-attachments/assets/08ad1391-1226-4280-96d1-9a9f7bc17199" />
