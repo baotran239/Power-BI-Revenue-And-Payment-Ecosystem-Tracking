@@ -57,7 +57,7 @@ To access to the datasets, please refer to the [link](https://docs.google.com/sp
 ![Image](https://github.com/user-attachments/assets/3fe7da5e-01b2-467c-a717-363559eef76e)
 
 ### Dashboard
-<img width="1081" alt="Image" src="https://github.com/user-attachments/assets/08ad1391-1226-4280-96d1-9a9f7bc17199" />
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/9364dae4-e50b-4d94-875e-0007233b4f93" />
 
 # V. Insights
 - Revenue status:
