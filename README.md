@@ -59,11 +59,13 @@ To access to the datasets, please refer to the [link](https://docs.google.com/sp
 ### Dashboard
 <img width="1195" alt="Image" src="https://github.com/user-attachments/assets/9364dae4-e50b-4d94-875e-0007233b4f93" />
 
-# V. Insights
-- Revenue status:
-The company's revenue experienced a slight increase from March to April (0.4%), followed by a substantial surge from April to May (366.3%), reflecting steady growth and strong financial health.
-
-- payment ecosystem - relative proportions of payment types - (By provinces, categories, and products)
-- revenue by product categories - prioritize in terms of product positioning
-
-# VI. Recommendations
+# V. Insights and Recommendations
+| **Insights** | **Recommendations** |
+|-------------|---------------------|
+| **Ho Chi Minh City** generates **98.06%** of the total revenue, while **Hanoi** contributes only **1.94%**, indicating a major imbalance in **market distribution**. | **Expand sales efforts** in **Hanoi** by launching **targeted marketing campaigns** and ensuring **better product availability** to capture more **market share**. |
+| The highest revenue comes from **"Nước" (440M VND)** and **"Snack - Bánh Kẹo" (65M VND)**, making them the **top-performing product categories**. | **Prioritize high-performing categories** by maintaining **adequate stock levels**, running **promotional campaigns**, and offering **bundle deals** to increase **sales further**. |
+| The **lowest revenue** comes from **"Trà Chanh" (4M VND)** and **"Thức Ăn Nóng" (3M VND)**, indicating **weak demand** or **low visibility** for these products. | **Improve visibility** and **attractiveness** of these **low-performing products** by **bundling them** with **bestsellers** or offering **limited-time discounts** to encourage trials. |
+| **Cash transactions** dominate the **payment ecosystem**, accounting for **63.21%** of all payments, followed by **Momo (15.93%)** and **SkillsHub (15.17%)**. | **Encourage digital payments** by offering **cashback, discounts, or loyalty rewards** for customers using **e-wallets** and other **digital payment methods**. |
+| **Ho Chi Minh City** accounts for **97.98%** of all **transactions**, while **Hanoi** only contributes **2.02%**, showing a **lack of payment adoption** in the **northern region**. | **Drive digital payment adoption** in **Hanoi** by increasing **awareness** through **targeted marketing campaigns** and collaborating with **local vendors** to promote **cashless transactions**. |
+| **Offices (173M VND)** and **apartments (114M VND)** are the **highest revenue-generating locations**, while **supermarkets (59M VND)** and **cafés (0M VND)** contribute the least. | **Focus on high-performing locations** such as **offices and apartments** by introducing **tailored promotions**, while **reassessing the approach** in **supermarkets and cafés** to improve **product visibility and sales**. |
+| **Industrial zones (104M VND)** and **schools (66M VND)** show **strong potential for revenue growth** but remain **underdeveloped**. | **Strengthen partnerships** with **schools and industrial zones** by offering **bulk purchase discounts** and **customized promotions** to increase **order volume** from these **locations**. |
