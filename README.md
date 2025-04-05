@@ -1,7 +1,9 @@
-# I. Introduction
+# [Power BI] Revenue and Payment Ecosystem Tracking
+
+## I. Introduction
 The project involves developing a Power BI dashboard to monitor the Revenue and Payment Ecosystem of a vending machine company, aiming to uncover key insights to support strategic decision-making.
 
-# II. Dataset
+## II. Dataset
 To access to the datasets, please refer to the [link](https://docs.google.com/spreadsheets/d/1LqbkwkU10uuIpyg_Lp1dZCyLYJ55tHh0/edit?gid=1069178691#gid=1069178691)
 
 ## III. Design thinking approach
